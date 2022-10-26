@@ -1,0 +1,15 @@
+.container{
+    margin: 0 auto;
+    max-width: 1300px;
+
+   
+}
+.flex {
+    display: flex;
+    align-items: center;
+}
+body{
+width: 1440px;
+margin:0 auto;
+
+}

@@ -1,0 +1,16 @@
+@font-face {
+    font-family:"reg" ;
+    src: url(./fonts/PlusJakartaSans-Regular.ttf);
+}
+@font-face {
+    font-family: "med";
+    src: url(./fonts/PlusJakartaSans-Medium.ttf);
+}
+@font-face {
+    font-family: "sem";
+    src: url(./fonts/PlusJakartaSans-SemiBold.ttf);
+}
+@font-face {
+    font-family: "bol";
+    src: url(./fonts/PlusJakartaSans-Bold.ttf);
+}
